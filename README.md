@@ -1,12 +1,13 @@
 # PROGRAMMING FOR DATA SCIENCE - FIT - HCMUS
 ## Final Project - Thu thập, phân tích cho trả lời câu hỏi về bộ dữ liệu MyAnimeList
 ### I. Group infomation:
-- Class ID: 21KHDL1
 
-#|Họ tên
--|-
-21127616|Lê Phước Quang Huy
-21127229|Dương Trường Bình
+Class ID: 21KHDL1
+
+|Student ID|Full Name|
+|---|---|
+|21127616|Lê Phước Quang Huy|
+|21127229|Dương Trường Bình|
 
 ### II. Project Information:
 #### **_01. Dataset:_**
