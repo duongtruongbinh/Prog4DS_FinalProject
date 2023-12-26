@@ -197,12 +197,12 @@ Class ID: 21KHDL1
 - Câu hỏi 4:
 
 
-#### **_04. More Information:_**
+## **_04. More Information:_**
 - [Github](https://github.com/duongtruongbinh/Prog4DS_FinalProject)
 - [Trello](https://trello.com/b/TL2hTrzA/prog4dsfinalproject)
 ![Trello](./image/trello.png)
 
-#### **_05. Planning:_**
+## **_05. Planning:_**
 - [Planning](https://docs.google.com/spreadsheets/d/1C74QGwhZZZx5uv8j9Z5kSmUOsvY673bq0KFGbLohAOI/edit?usp=sharing
 )
 ![GanttChart](./image/gantt.png)
