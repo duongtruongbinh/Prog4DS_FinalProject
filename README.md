@@ -41,8 +41,11 @@ Class ID: 21KHDL1
 - **How to answer this question:**
     - Analyzing genre has the highest frequency of songs
 ![genre has the highest frequency of songs](./image/Q1-1.png)
+    > This is the characteristic of the dataset, the author has collected about 1000 songs of each genre to create this dataset.
+
     - Top 10 Genres with Highest Average Popularity
 ![Top 10 Genres with Highest Average Popularity](./image/Q1-2.png)
+    > 
     - Genres with Highest Average Explicit Ratio
 ![Top 10 Genres with Highest Average Explicit Ratio](./image/Q1-3.png)
     - Genres has the highest number of songs in the top 0.001% (~110) most popular songs
