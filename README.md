@@ -1,5 +1,5 @@
 # PROGRAMMING FOR DATA SCIENCE - FIT - HCMUS
-## Final Project - Thu thập, phân tích cho trả lời câu hỏi về bộ dữ liệu MyAnimeList
+## Final Project - Thu thập, phân tích cho trả lời câu hỏi về bộ dữ liệu Spotify Tracks Dataset
 ### I. Group infomation:
 
 Class ID: 21KHDL1
