@@ -193,7 +193,7 @@ Class ID: 21KHDL1
 
 > **Result:** Recommend the top 5 tracks for the user in descending order of similarity, based on the calculated Euclidean distances.
 
-![Recommend](./image/Q3.png)
+![Recommend](./image/Q3.PNG)
 
 - Câu hỏi 4:
 
@@ -206,4 +206,4 @@ Class ID: 21KHDL1
 ## **_05. Planning:_**
 - [Planning](https://docs.google.com/spreadsheets/d/1C74QGwhZZZx5uv8j9Z5kSmUOsvY673bq0KFGbLohAOI/edit?usp=sharing
 )
-![GanttChart](./image/gantt.png)
+![GanttChart](./image/gantt.PNG)
