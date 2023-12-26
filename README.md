@@ -9,6 +9,8 @@ Class ID: 21KHDL1
 |21127616|Lê Phước Quang Huy|
 |21127229|Dương Trường Bình|
 
+
+
 ### II. Project Information:
 #### **_01. Dataset:_**
 - **Link:** [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset).
@@ -50,7 +52,7 @@ Class ID: 21KHDL1
     - Select K songs with the smallest distances. These are the songs that the system highly rates in similarity to the user's liked song.
     - Extract information such as song names and artists from the selected songs and return this information as recommendations for the user.
 
-> **Kết quả:** Recommend the top 5 tracks for the user in descending order of similarity, based on the calculated Euclidean distances.
+> **Result:** Recommend the top 5 tracks for the user in descending order of similarity, based on the calculated Euclidean distances.
 
 ![Recommend](./image/Q3.png)
 
