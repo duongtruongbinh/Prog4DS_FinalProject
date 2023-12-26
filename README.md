@@ -5,8 +5,9 @@ Class ID: 21KHDL1
 
 |Student ID|Full Name|
 |---|---|
-|21127616|Lê Phước Quang Huy|
 |21127229|Dương Trường Bình|
+|21127616|Lê Phước Quang Huy|
+
 
 
 
@@ -54,8 +55,8 @@ Class ID: 21KHDL1
 - Column's data type:
 
     - `object`: 6 columns: `track_id`, `artists`, `album_name`, `track_name`, `track_genre`, `explicit`
-    - `int64`: 6 columns: `popularity`, `duration_ms`, `key`, `mode`, `time_signature`
-    - `float64`: 8 columns: `danceability`, `energy`, `loudness`, `speechiness`, `acousticness`, `instrumentalness`, `liveness`, `valence`, `tempo`
+    - `int64`: 5 columns: `popularity`, `duration_ms`, `key`, `mode`, `time_signature`
+    - `float64`: 9 columns: `danceability`, `energy`, `loudness`, `speechiness`, `acousticness`, `instrumentalness`, `liveness`, `valence`, `tempo`
 
     - Data type of object columns:
 
@@ -190,9 +191,9 @@ Class ID: 21KHDL1
     - Select K songs with the smallest distances. These are the songs that the system highly rates in similarity to the user's liked song.
     - Extract information such as song names and artists from the selected songs and return this information as recommendations for the user.
 
-![Recommend](./image/Q3.png)
-
 > **Result:** Recommend the top 5 tracks for the user in descending order of similarity, based on the calculated Euclidean distances.
+
+![Recommend](./image/Q3.png)
 
 - Câu hỏi 4:
 
