@@ -32,25 +32,37 @@ Class ID: 21KHDL1
 - **Visualize data**
 
 #### **_03. Meaningful questions:_**    
-- **Question 2: What is the most popular genre? (This is an open-ended question)** 
+- **Question 1: How do different genre-related characteristics affect the popularity of songs? (This is an open-ended question)** 
 - **Benefits:**
     - **Understanding Audience Trends**: This can be useful in creating music content or events that resonate with the audience.
     - **Planning for Events/Programs**: Knowing which genre is most popular can help you plan your event or program to attract the widest audience.
     - **Supporting Advertising and Marketing**: Optimizing advertising and marketing strategies.
     - **Artist Development Strategy**: For music artists, understanding the current trends and characteristics of different genres can support the development of their strategy, from genre selection to building an image that appeals to the target audience.
 - **How to answer this question:**
-    - Analyzing genre has the highest frequency of songs
+    - **Analyzing genre has the highest frequency of songs**
 ![genre has the highest frequency of songs](./image/Q1-1.png)
-    - Top 10 Genres with Highest Average Popularity
+    > This is the characteristic of the dataset, the author has collected about 1000 songs of each genre to create this dataset.
+
+    - **Top 10 Genres with Highest Average Popularity**
 ![Top 10 Genres with Highest Average Popularity](./image/Q1-2.png)
-    - Genres with Highest Average Explicit Ratio
+    > - Based on the chart, we observe that the highest average popularity score for a genre is approximately 60, not significantly higher than the rest in the top 10.
+    > - We also see diversity within each genre, with notable genres including `pop-film`, `k-pop`, `chill`, and `sad`. 
+    - **Genres with Highest Average Explicit Ratio**
 ![Top 10 Genres with Highest Average Explicit Ratio](./image/Q1-3.png)
-    - Genres has the highest number of songs in the top 0.001% (~110) most popular songs
+    > - Based on the chart, the `comedy` genre has the highest `Explicit` ratio by a significant margin.
+    > - Genres with a high explicit ratio may attract listeners seeking music with edginess and linguistic freedom.
+    - **Genres has the highest number of songs in the top 0.001% (~110) most popular songs**
 ![Top 10 Genres has the highest number of songs in the top 0.001% (~110) most popular songs ](./image/Q1-4.png)
-    - Genres has the highest ratio of live songs
+    > - Based on the chart, in the top `0.001%` of popular songs, there is a large diversity of genres.
+    > - The `pop` genre is one of the most popular music genres worldwide.
+    - **Genres has the highest ratio of live songs**
 ![Top 10 Genres with Highest Average Explicit Ratio](./image/Q1-5.png)
-    - Correlation between `loudness` and `energy` in the top 3 genres with the highest average popularity
+    > - Based on the chart, the `comedy` genre has the highest `live` ratio
+    > - A high ratio of live songs may reflect the audience's preference for live recordings, with their passion for the lively atmosphere and direct interaction.
+    > - Artists and bands often have higher creative freedom during live performances. This can help create unique and more intimate performance versions that resonate closely with the audience.
+    - **Correlation between `loudness` and `energy` in the top 3 genres with the highest average popularity**
 ![Top 10 Genres with Highest Average Explicit Ratio](./image/Q1-6.png)
+    > - According to the chart, the correlation between `loudness` and `energy` in the selected top 3 music genres is quite significant. This may imply that songs with high `loudness` also tend to have high `energy` in these genres.
 
 > **Result:** There's no single correct answer to the question posed by our group. Answering this question requires looking at it from various perspectives. Each viewpoint provides different responses suitable for that particular aspect. After this analysis, we hope artists can create hits that become even more widely popular.
 
@@ -75,6 +87,7 @@ Class ID: 21KHDL1
 #### **_04. More Information:_**
 - [Github](https://github.com/duongtruongbinh/Prog4DS_FinalProject)
 - [Trello](https://trello.com/b/TL2hTrzA/prog4dsfinalproject)
+![Trello](./image/trello.png)
 
 #### **_05. Planning:_**
 - [Planning](https://docs.google.com/spreadsheets/d/1C74QGwhZZZx5uv8j9Z5kSmUOsvY673bq0KFGbLohAOI/edit?usp=sharing
